@@ -866,11 +866,6 @@ hash = "4f27a7357ae26066399aaea22cd06448e1bf9b2d6a95e44f723650687b78c398"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mizuno-copper-tools.pw.toml"
-hash = "217df7a98495bfbf4df5141e81e7afcd8de11632b85da299567e8db5aa704328"
-metafile = true
-
-[[files]]
 file = "resourcepacks/mizuno-emissive-ores.pw.toml"
 hash = "d89bf4a26d2398692f7e367b372cef80936b52fccaf8d9a31ba806f7a3e23ad3"
 metafile = true

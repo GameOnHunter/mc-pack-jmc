@@ -1,0 +1,13 @@
+name = "Spiky Spikes"
+filename = "SpikySpikes-v21.1.2-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DUaLBLVL/versions/BAfZV3f0/SpikySpikes-v21.1.2-1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "d89bad25215b9634f6e2449cb692368a26e15c40c17373a4c9224f7728034430c46fba1893964fd8d7adb5ad202a9cb29917d0bae9e8edf6846fefc0ca71f9b6"
+
+[update]
+[update.modrinth]
+mod-id = "DUaLBLVL"
+version = "BAfZV3f0"

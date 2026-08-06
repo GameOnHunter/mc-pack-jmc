@@ -1,0 +1,13 @@
+name = "Mizuno Emissive Ores"
+filename = "Mizuno Emissive Ores.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CDRKTPkO/versions/NF90aVwJ/Mizuno%20Emissive%20Ores.zip"
+hash-format = "sha512"
+hash = "18d144b62ed4a9d27e26aff5250808ab2dda784a70eb1d5b641bc5292fb491773354b9a20e6f7006e18f90552821eec62fddaf036c05d5b96b26812708358eb8"
+
+[update]
+[update.modrinth]
+mod-id = "CDRKTPkO"
+version = "NF90aVwJ"

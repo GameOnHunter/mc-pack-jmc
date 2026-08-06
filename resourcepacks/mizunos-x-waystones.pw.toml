@@ -1,0 +1,13 @@
+name = "Mizuno's x Waystones"
+filename = "Mizuno's X Waystones.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PKWrNqLV/versions/UshaG41W/Mizuno%27s%20X%20Waystones.zip"
+hash-format = "sha512"
+hash = "8ce71168485a7bfa26519d76918b400aa71a51cc25be34ee906f56e0fbd4d5aaf13c6ce1afd352127d0bf550f3614608aa7794d6fef111a062945bd14d94c273"
+
+[update]
+[update.modrinth]
+mod-id = "PKWrNqLV"
+version = "UshaG41W"

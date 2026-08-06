@@ -1,0 +1,13 @@
+name = "Dawn of Time: Beyond Vanilla"
+filename = "dotbv-fabric-1.21.1-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5elJ98Ne/versions/WMG5ijDU/dotbv-fabric-1.21.1-0.2.0.jar"
+hash-format = "sha512"
+hash = "7a99ec469acec05da16a2605e196570c07df49088567456a020de1189c4a9ef3bb92a6722fe51e357f8498b2dcddc72d0221c7e9d28f84a9a1e07fd3b78e0ca1"
+
+[update]
+[update.modrinth]
+mod-id = "5elJ98Ne"
+version = "WMG5ijDU"

@@ -1,0 +1,13 @@
+name = "Enchantment Insights"
+filename = "EnchantmentInsights-v21.1.4-mc1.21.1-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xLSpHE43/versions/iZg5IIBH/EnchantmentInsights-v21.1.4-mc1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "35bc131083a2b867761715b29cdf568f523efb55c12c89d673e8af9d4015d42c25e36897510520e718d3dd39d7c570e7d0e448f6bdacf18925b4c64ee6b03f64"
+
+[update]
+[update.modrinth]
+mod-id = "xLSpHE43"
+version = "iZg5IIBH"

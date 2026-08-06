@@ -1,0 +1,13 @@
+name = "Mizuno's Dark Mode"
+filename = "Mizuno's Dark Mode 1.21-1.21.3 1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mAfYDrOW/versions/5JkuocRH/Mizuno%27s%20Dark%20Mode%201.21-1.21.3%201.0.zip"
+hash-format = "sha512"
+hash = "6b50cacacfb9696193c9faf4efd04e40ad0844bbb0995f102f4289c491ba9503e57e18f0a03bf3d4c3f29ec5d80811e308817d5c59d52912ad423c96889fc087"
+
+[update]
+[update.modrinth]
+mod-id = "mAfYDrOW"
+version = "5JkuocRH"

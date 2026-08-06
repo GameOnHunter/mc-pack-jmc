@@ -1,0 +1,13 @@
+name = "Mizuno's x Display Delight"
+filename = "Mizuno's x Display Delight.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tv7Eidua/versions/Oujn5rJj/Mizuno%27s%20x%20Display%20Delight.zip"
+hash-format = "sha512"
+hash = "0d935440ca26d3136e8fb04ceadf70be71919570a8b00ed57e933430ffef28ee9840c6dfc1df92511304a950e48126a3a24af42cd28db0668e83ebc8a61ee499"
+
+[update]
+[update.modrinth]
+mod-id = "tv7Eidua"
+version = "Oujn5rJj"

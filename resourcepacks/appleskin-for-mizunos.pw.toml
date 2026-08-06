@@ -1,0 +1,13 @@
+name = "appleskin for mizunos"
+filename = "appleskin for mizunos.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/StwlQNpL/versions/Dbdk6Ybc/appleskin%20for%20mizunos.zip"
+hash-format = "sha512"
+hash = "b62b7a20cc65a5ed067166f173d8e6751bc5baf4268fc27947e0bd1f2603f61e59ce92c70bd9420923a399eede8e5122b7543682908748d05b1cb36007977dcc"
+
+[update]
+[update.modrinth]
+mod-id = "StwlQNpL"
+version = "Dbdk6Ybc"

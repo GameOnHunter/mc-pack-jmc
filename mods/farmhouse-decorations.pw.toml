@@ -1,0 +1,13 @@
+name = "Farmhouse Decorations"
+filename = "farmhouse_decorations-26.4.0-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fRCEQtWX/versions/uffy60p8/farmhouse_decorations-26.4.0-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "0966040851f5288889caf15e972f71fe506b0ac3a686fd30502fc61ee010328e47b273db5764b6bc8631a0d6589913f53105c4847ea2ccacd96fc138b540615d"
+
+[update]
+[update.modrinth]
+mod-id = "fRCEQtWX"
+version = "uffy60p8"

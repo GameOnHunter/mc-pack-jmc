@@ -1,0 +1,13 @@
+name = "Mizuno's x Reinforced Chest & Barrels"
+filename = "Mizuno's x Reinforced Chest & Barrels.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dThVyEre/versions/DMMbU3Jk/Mizuno%27s%20x%20Reinforced%20Chest%20%26%20Barrels.zip"
+hash-format = "sha512"
+hash = "eedb27f19c0097b09eaa870ff18d2ac232fd06a7fa8af1edd89660a92b2c410d7d8f64a6d2654215ed0c4084e0d2732ca4f4f88c4aa2853a31d6b0b25a267c8d"
+
+[update]
+[update.modrinth]
+mod-id = "dThVyEre"
+version = "DMMbU3Jk"

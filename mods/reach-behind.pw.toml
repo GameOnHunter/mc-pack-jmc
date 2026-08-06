@@ -1,0 +1,13 @@
+name = "Reach Behind"
+filename = "ReachBehind-v21.1.0-mc1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MDljZreW/versions/Ej1TTIaV/ReachBehind-v21.1.0-mc1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "dfe1bde82aaf98cad17e976883108454be4fcb947e403ade23b95acd0f344fd1c34421db5935d743cdebb679582210da5f32704e92b58fd797f1c666c1c6febe"
+
+[update]
+[update.modrinth]
+mod-id = "MDljZreW"
+version = "Ej1TTIaV"

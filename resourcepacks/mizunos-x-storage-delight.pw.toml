@@ -1,0 +1,13 @@
+name = "Mizuno's x Storage Delight"
+filename = "Mizuno's x Storage Delight 1.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rDXNpOmR/versions/vLkkDeVa/Mizuno%27s%20x%20Storage%20Delight%201.4.zip"
+hash-format = "sha512"
+hash = "2763be619940ba4269733db2e2d89fafa47a66a3f13cf4257955f44286988bc795d6068733da006aa4181eb1970c207b310a2e7620153f170a14a8b955ce4aef"
+
+[update]
+[update.modrinth]
+mod-id = "rDXNpOmR"
+version = "vLkkDeVa"

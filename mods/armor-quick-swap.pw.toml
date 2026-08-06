@@ -1,0 +1,13 @@
+name = "Armor Quick Swap"
+filename = "ArmorQuickSwap-v21.1.2-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YxCEfYbF/versions/oGfnV6U2/ArmorQuickSwap-v21.1.2-1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "14ea8aad221702c0a38e4a2022c6e184aa4c8ad4d80c6deafd94cbb55ce75d674a2d009ebeb8de1a94a68fc9cd08e75137782505e860e9e5cf3a8dffab549891"
+
+[update]
+[update.modrinth]
+mod-id = "YxCEfYbF"
+version = "oGfnV6U2"

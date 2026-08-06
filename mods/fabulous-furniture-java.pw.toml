@@ -1,0 +1,13 @@
+name = "Fabulous Furniture (Java)"
+filename = "FF-Fabric-1.21.1-v0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kOcpQwau/versions/yX9zA4bc/FF-Fabric-1.21.1-v0.2.0.jar"
+hash-format = "sha512"
+hash = "1c51e0831b586ed32730f031ca25088d9d8b2172a0c2b3636f3ad0d45987f3a30b329a6968d40bb638da6d6e3bfa69776c50fc10a59ea023bca70b605f14bfe7"
+
+[update]
+[update.modrinth]
+mod-id = "kOcpQwau"
+version = "yX9zA4bc"

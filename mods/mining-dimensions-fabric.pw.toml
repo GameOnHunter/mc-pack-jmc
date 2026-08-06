@@ -1,0 +1,13 @@
+name = "Mining Dimensions [FABRIC]"
+filename = "MiningDimensions_Fabric-1.21.1-1.8.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3b725b17900963a2c2eb95dee7cae96b2ac4b2f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5625145
+project-id = 442921

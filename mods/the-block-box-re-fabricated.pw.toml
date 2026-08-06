@@ -1,0 +1,13 @@
+name = "The Block Box Refabricated"
+filename = "blockbox-26.06.16-1.21-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IJt6WXFi/versions/szk4lJpr/blockbox-26.06.16-1.21-fabric.jar"
+hash-format = "sha512"
+hash = "309b8b2345b971aa5f6a9bbdfd17203a6336301d4be7d1bacaf0e611237e52c4e4bb2a49e0868927f8d9d93e320e9665af6c0bbca3d45c074094f1b679fb6679"
+
+[update]
+[update.modrinth]
+mod-id = "IJt6WXFi"
+version = "szk4lJpr"

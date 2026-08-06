@@ -1,0 +1,13 @@
+name = "Open Together"
+filename = "OpenTogether-v21.1.0-mc1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ssyvO6WG/versions/Fq6qszLk/OpenTogether-v21.1.0-mc1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "cf90ceba779e2111deb91019618bfba95d317f5119094aafebde0cb058e49267a25e0408312f5daa857cc428c678ba3d1130b8624e5ec67035216cb22f6622ea"
+
+[update]
+[update.modrinth]
+mod-id = "ssyvO6WG"
+version = "Fq6qszLk"

@@ -1,0 +1,13 @@
+name = "Ocean Hotbar"
+filename = "ocean hotbar 1.21.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "caada59c897d7ea1cbbf8b2286d71f74c1161e57"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7587102
+project-id = 1455958

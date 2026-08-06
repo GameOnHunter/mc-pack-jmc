@@ -1,0 +1,13 @@
+name = "Serene Shrubbery (Fabric)"
+filename = "serene_shrubbery-fabric-1.1.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3RUivYTo/versions/hrTtU2yV/serene_shrubbery-fabric-1.1.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "66b5d83f515210e7be2d5521008c7d17e46e63c50245821343596b485f67cd5ca8e31ba3a9ac322c7faf4eda311cffa2c509308d5b3f9486023d4a09fd6646fa"
+
+[update]
+[update.modrinth]
+mod-id = "3RUivYTo"
+version = "hrTtU2yV"

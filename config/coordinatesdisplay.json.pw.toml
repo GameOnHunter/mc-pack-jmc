@@ -1,0 +1,8 @@
+name = "CoordinatesDisplay"
+filename = "coordinatesdisplay.json"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/GameOnHunter/mc-pack-jmc/refs/heads/master/config/coordinatesdisplay.json"
+hash-format = "sha512"
+hash = "db6a5c86397631b3bc154094fcfa731ac88e3e3c89b10e963ed435d4986cefe5"

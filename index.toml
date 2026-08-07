@@ -14,11 +14,16 @@ hash = "136f8b0a20e3e16f5b60e8505219c34746e1ec62c68433f4f8ec97eefe3aa038"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "ce132bd832f6a73a0ca3e517be1a3579f825d1b35940571c2279fc27a0839642"
+hash = "2cfa97fd8c61e3adf9a0959840ea32cea290139464e05808620d8b19cfefaff1"
 
 [[files]]
 file = "config/coordinatesdisplay.json"
 hash = "db6a5c86397631b3bc154094fcfa731ac88e3e3c89b10e963ed435d4986cefe5"
+
+[[files]]
+file = "config/coordinatesdisplay.json.pw.toml"
+hash = "37ba70d4165f2d66d06d067f095e168424027441703f6c6152b499425a105a2c"
+metafile = true
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"

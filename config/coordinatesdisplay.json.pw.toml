@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://raw.githubusercontent.com/GameOnHunter/mc-pack-jmc/refs/heads/master/config/coordinatesdisplay.json"
 hash-format = "sha512"
-hash = "db6a5c86397631b3bc154094fcfa731ac88e3e3c89b10e963ed435d4986cefe5"
+hash = "423501a8d491eea30e9266b2a43214368cb556ab0776d66fc5b0b1e0f0a26d082ac5087b0da1d6a6d836890be7d042e20e2a52791c4a6c21feaa60458b807cf3"

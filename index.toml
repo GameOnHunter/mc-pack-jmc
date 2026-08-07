@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/betterf3.json"
-hash = "cbd786835553d034d839228db4c7d077f705233b2ce7ce0ccaa79a69a55d59ab"
+hash = "65deb82b1bbf900bb41d8be314a90a86ba00f8645c84d965d2d52d5f914c8b85"
 
 [[files]]
 file = "config/coordinatesdisplay.json"
@@ -18,7 +18,7 @@ hash = "e3c64ff2dbaafc31cb077a9efa6778f8ead2b0623f5873556b26ae0e160dc495"
 
 [[files]]
 file = "config/stack-to-nearby-chests/mod-options.json"
-hash = "cb03c2b398e0c021266cb597463341d399f2ed54306ea1d33b8d200574b78836"
+hash = "ef5cc9a4ad4b3c635d437074cc66ad42d25b5d43345e306f2c3ddc315aa08885"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
@@ -26,7 +26,7 @@ hash = "a66c239a9dd2e64a0c69401bd1d4762d99d0d4f0f1bb5cb765a741e011c80b21"
 
 [[files]]
 file = "config/xaero/world-map/profiles/default.cfg"
-hash = "f9f82bda17934750048cb82955249931eb7a5b52725c0a66a18098d3886f73f8"
+hash = "d1b95fc5f46e7ae701896e4c489edc432ee03aee59a87d84b544af03a344ce7f"
 
 [[files]]
 file = "mods/almanac.pw.toml"

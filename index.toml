@@ -3,7 +3,6 @@ hash-format = "sha256"
 [[files]]
 file = "config/coordinatesdisplay.json"
 hash = "db6a5c86397631b3bc154094fcfa731ac88e3e3c89b10e963ed435d4986cefe5"
-preserve = true
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"

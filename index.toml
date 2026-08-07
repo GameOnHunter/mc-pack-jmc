@@ -256,11 +256,6 @@ hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
-file = "mods/fabulous-furniture-java.pw.toml"
-hash = "a0f48cf571fa097542e9ea13e05394db811269a3ce80662766f136a45161a504"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "4e94f635510d86d01a94bbc78eb471632ebe203b58b88490a73a785d733e42ed"
 metafile = true

@@ -26,7 +26,7 @@ hash = "a66c239a9dd2e64a0c69401bd1d4762d99d0d4f0f1bb5cb765a741e011c80b21"
 
 [[files]]
 file = "config/xaero/world-map/profiles/default.cfg"
-hash = "eab856413b5f73b78517e68ab185f4a405b8c0c704f6f989fc5e04c8e2531418"
+hash = "f9f82bda17934750048cb82955249931eb7a5b52725c0a66a18098d3886f73f8"
 
 [[files]]
 file = "mods/almanac.pw.toml"

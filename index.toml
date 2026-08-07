@@ -1,12 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "cbd786835553d034d839228db4c7d077f705233b2ce7ce0ccaa79a69a55d59ab"
+
+[[files]]
 file = "config/coordinatesdisplay.json"
 hash = "db6a5c86397631b3bc154094fcfa731ac88e3e3c89b10e963ed435d4986cefe5"
 
 [[files]]
+file = "config/inventoryessentials-common.toml"
+hash = "e0cbf3b8783c9b7273daee3bd4911fdce19461caf6250992103dc87b3aa44e88"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "e3c64ff2dbaafc31cb077a9efa6778f8ead2b0623f5873556b26ae0e160dc495"
+
+[[files]]
+file = "config/stack-to-nearby-chests/mod-options.json"
+hash = "cb03c2b398e0c021266cb597463341d399f2ed54306ea1d33b8d200574b78836"
+
+[[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
 hash = "a66c239a9dd2e64a0c69401bd1d4762d99d0d4f0f1bb5cb765a741e011c80b21"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "f9f82bda17934750048cb82955249931eb7a5b52725c0a66a18098d3886f73f8"
 
 [[files]]
 file = "mods/almanac.pw.toml"

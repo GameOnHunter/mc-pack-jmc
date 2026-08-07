@@ -411,6 +411,11 @@ hash = "88b5510e39cdc8ca356d54bc436edc777d5eafc03203a8724784183408fe6792"
 metafile = true
 
 [[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "ec897286bdccb5d9fbef02b1c9070a9bce343f592cfc22aea3c836f0446e1864"
+metafile = true
+
+[[files]]
 file = "mods/macaws-paintings.pw.toml"
 hash = "7f00420314de5c50d0ba793b5ea5027d1aaf12a7a608887293d7bd818dee0845"
 metafile = true
@@ -663,11 +668,6 @@ metafile = true
 [[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "53ff34a5821f588c428221b6e7104d3e4fcf70ab7683c241e4149a4816251fed"
-metafile = true
-
-[[files]]
-file = "mods/storage-delight.pw.toml"
-hash = "1ddc2d21634052e4b9a0a8ca857820c95e822f6d516ac586c7ff1742e2b5b38b"
 metafile = true
 
 [[files]]
@@ -941,13 +941,13 @@ hash = "af6d69a522b34020a43bc282f61790b1586d428f861e24d6ab170d58fe62f643"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mizunos-x-reinforced-chest-barrels.pw.toml"
-hash = "c346aae5dee9b8e66faccd85f06f79244a5d1f819c93091550efc66a0c5e9790"
+file = "resourcepacks/mizunos-x-letsdo-furniture.pw.toml"
+hash = "656ce8454b3a448048d9e33804c3f0de5912d14d95dd82a179c2e7e34c1bc976"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mizunos-x-storage-delight.pw.toml"
-hash = "6ab5389140c3018288460de96c2ea52bbf7045adb89fca032d988b1dbc8a9ecd"
+file = "resourcepacks/mizunos-x-reinforced-chest-barrels.pw.toml"
+hash = "c346aae5dee9b8e66faccd85f06f79244a5d1f819c93091550efc66a0c5e9790"
 metafile = true
 
 [[files]]

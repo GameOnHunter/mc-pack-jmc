@@ -1,6 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/Journey MC.iml"
+hash = "c175f68ed3b5420621f4e81c25a5d205c21978b65b6c4f351a4000a43e6242ad"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "0859842d09acae22d37ed57d3461555d257295ded0f5844a760ba969036cf868"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "136f8b0a20e3e16f5b60e8505219c34746e1ec62c68433f4f8ec97eefe3aa038"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "ce132bd832f6a73a0ca3e517be1a3579f825d1b35940571c2279fc27a0839642"
+
+[[files]]
+file = "config/coordinatesdisplay.json"
+hash = "db6a5c86397631b3bc154094fcfa731ac88e3e3c89b10e963ed435d4986cefe5"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "a66c239a9dd2e64a0c69401bd1d4762d99d0d4f0f1bb5cb765a741e011c80b21"
+
+[[files]]
+file = "extra/Mizunos 16 Craft JE_1.20.4-1.0_230105.zip"
+hash = "fc2ef5c6164b35f9ae5244451b9519198bb56ed8d078d8dd60add762640eb0ec"
+
+[[files]]
+file = "extra/options.txt"
+hash = "388529ebb2fcf45f16fed1418d87b7f9d4283307268d7c1fa03127a7ec34c098"
+
+[[files]]
+file = "extra/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "01174ec973f9c2267f4d6ae6040941a3e764af58f9fa0b0a9f2914ce5630d728"
 metafile = true

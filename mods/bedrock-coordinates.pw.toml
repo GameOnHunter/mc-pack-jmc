@@ -1,0 +1,13 @@
+name = "Bedrock Coordinates"
+filename = "coordinates-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kWN8VKQl/versions/PFGI4FhD/coordinates-1.0.0.jar"
+hash-format = "sha512"
+hash = "0d5e8123917bc31846358a1330668f02ea8866e6b3e2776ae1e6d0d0f63ec9d966e49e35914d9f3a61873aa5176e723db2836525b5b21daf1e7a47718ec49a33"
+
+[update]
+[update.modrinth]
+mod-id = "kWN8VKQl"
+version = "PFGI4FhD"

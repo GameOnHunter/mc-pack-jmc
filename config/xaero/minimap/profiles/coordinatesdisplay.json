@@ -13,7 +13,7 @@
   "renderChunkData": true,
   "renderDirection": true,
   "renderDirectionInt": true,
-  "renderBiome": true,
+  "renderBiome": false,
   "biomeColors": true,
   "dimensionColors": true,
   "renderMCVersion": true,

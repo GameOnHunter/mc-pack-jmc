@@ -471,6 +471,11 @@ hash = "8db5dc37941395755210b8dd4524c0df556884324a5cf7140c529dfe79f95ce4"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
+metafile = true
+
+[[files]]
 file = "mods/monolib.pw.toml"
 hash = "377670ffbc8e2ffe815328fd683761966cdd37e59ce4d38e11e0687afb9c66a6"
 metafile = true
@@ -568,6 +573,11 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "af6de4e48064926264441ace0dc8f3193deedd534e2963c25a7700d4dfa6f825"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]

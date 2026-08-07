@@ -46,11 +46,6 @@ hash = "6d964f626b27efe9a04f123f706538246ca7e8ae16cb23f901428341326f3662"
 metafile = true
 
 [[files]]
-file = "mods/bedrock-coordinates.pw.toml"
-hash = "07e48d19dc3302a30e7cd001767f3c6485927fe75cdf9b5b56d6b943ff35a024"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "7c45c50ac2431db0dd3697e16a180a55ac0f2a753540b0bd310eb593b8b0bd0a"
 metafile = true
@@ -83,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "6d4de3bf124c98a61c022477e07c8386940d4804001f5f71b322c9b1b74cb5c2"
+metafile = true
+
+[[files]]
+file = "mods/boxlib.pw.toml"
+hash = "c41ddc84378757d40c8fc262a8f215f4af8c943ebcba46bcf0150259cec029bd"
 metafile = true
 
 [[files]]
@@ -123,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/convenient-effects.pw.toml"
 hash = "5c1199eda6510bd92465c628058540c502d3186f52000bcfb7d315a2385f0761"
+metafile = true
+
+[[files]]
+file = "mods/coordinates-display.pw.toml"
+hash = "5283f1c1dda06a0967228f8d162602390fb835fbcef953bf305ef8a5c485c197"
 metafile = true
 
 [[files]]
@@ -783,6 +788,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "37c8746fe9057612cd4f21e1221760e8dd2f78ce6b38a237b0ac925de21541e0"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "706f9f67c0d62462e81ce61f75ad0b236500052317562d28c0aa45dd157a5d44"
 metafile = true
 
 [[files]]

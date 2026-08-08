@@ -714,6 +714,11 @@ hash = "53ff34a5821f588c428221b6e7104d3e4fcf70ab7683c241e4149a4816251fed"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "81b8a1d186cc1685641bef736eadd143fa48909bd50cd7c975ec0d971a25e3ba"
+metafile = true
+
+[[files]]
 file = "mods/stylish-effects.pw.toml"
 hash = "930858d34968e333b3d8c4a11fdea69391d274c3ef67cd7d92dd7d579f383ec4"
 metafile = true
@@ -806,11 +811,6 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "b1e22f248b0836a0035b59ac6ae1bf8d8a0adb0b75b1d189d5ab8e3cebd3cd81"
-metafile = true
-
-[[files]]
-file = "mods/unlocked-typing.pw.toml"
-hash = "3d4f01cc50445aaf37dbb3a0a5b3623615a1b205aa872dc4090789791df0ac92"
 metafile = true
 
 [[files]]

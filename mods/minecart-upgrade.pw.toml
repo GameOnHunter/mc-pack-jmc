@@ -1,0 +1,13 @@
+name = "Faster Minecarts"
+filename = "minecartupgrade-1.2.0-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XfyN9DPR/versions/vf48yusS/minecartupgrade-1.2.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "12f9a5ae6797d43211d9161d7e5c9793dbc32c6baeec15c65a12a77d8c55f7ceaed724d6f928e31b1d231367ec9fda13963b167f723a0281925a5b2ed1dd6e09"
+
+[update]
+[update.modrinth]
+mod-id = "XfyN9DPR"
+version = "vf48yusS"

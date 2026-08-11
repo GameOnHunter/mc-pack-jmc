@@ -45,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2f62a5eb5fcd3b2a9cd374376cc996c4cc96934a190fc8b08fdaa7bc42c9fbf1"
+hash = "0fb3808193da9b587367337d12d202d7b006e2522637a6502913d66a84f8626f"
 metafile = true
 
 [[files]]
@@ -399,6 +399,11 @@ hash = "89787085b795067d933d636211006b9a99e69a00f660eaa5a5debf93cfc9b612"
 metafile = true
 
 [[files]]
+file = "mods/hopper-gadgetry.pw.toml"
+hash = "05782f036acb3c9ccfe187d9fd8d17d075ea59fbbd1f54cebbaa1571da6effec"
+metafile = true
+
+[[files]]
 file = "mods/hunger-tweaks.pw.toml"
 hash = "429c4e3794b0c374b40a238586626bbe068fed5d70d1b7a235f8f5988c9c0a1b"
 metafile = true
@@ -591,6 +596,11 @@ metafile = true
 [[files]]
 file = "mods/new-slab-variants.pw.toml"
 hash = "dccf1daad92df7a9f1c628e716937ccf885a5a03b2e83f8d0d1d9264da5d59da"
+metafile = true
+
+[[files]]
+file = "mods/nightlights.pw.toml"
+hash = "6b63d15284f95807dd5dcf19e6c1d0132cbac508426162d8db775a1c3a6a228d"
 metafile = true
 
 [[files]]

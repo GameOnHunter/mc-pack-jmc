@@ -84,6 +84,11 @@ hash = "7c45c50ac2431db0dd3697e16a180a55ac0f2a753540b0bd310eb593b8b0bd0a"
 metafile = true
 
 [[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "12b0b7e34d631a5f2b6a544bb0a549d48201671feac81a9ce0766db091adbd6e"
+metafile = true
+
+[[files]]
 file = "mods/betterdays.pw.toml"
 hash = "90b20da761c0ec799b348871b32751dc954bcb1cca80c7b759cb5caf5dfce8f3"
 metafile = true
@@ -181,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/craftable-name-tag.pw.toml"
 hash = "2cc326bc57d5f319403763d5f32982e281dd2e8e096d4245098434be6bf33d9f"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "323164de19b071d676954834e4293bbb218d6316d6e8465832c5155152caecf2"
 metafile = true
 
 [[files]]
@@ -321,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
+metafile = true
+
+[[files]]
+file = "mods/fantastic-wings.pw.toml"
+hash = "6d8ed5004666bdceee6034ae92133ca2badda83ba71336078c8e17bba99b6c70"
 metafile = true
 
 [[files]]
@@ -491,6 +506,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-paintings.pw.toml"
 hash = "7f00420314de5c50d0ba793b5ea5027d1aaf12a7a608887293d7bd818dee0845"
+metafile = true
+
+[[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "e6518e53d3f55ba3f10cd68d9334a9b58fee3228da6ab00d408c4f44fe0423bb"
 metafile = true
 
 [[files]]

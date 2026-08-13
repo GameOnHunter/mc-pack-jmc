@@ -395,12 +395,12 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "e5d035987cbb9668547b33c62953f0453450f3cf9bee25ea04a7cd9c5e9315ad"
+hash = "141cd1f71d9d355f298cea082e8a9cd69c91909d72405e7dfbe8dda9528f66d4"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "37a45ed98e4edc9c8224cb06f72be8914fae69687601d4e15009f1cb9f27563c"
+hash = "fd56a0cff0fa0172c35309f52e7bf76731abde661b03977bc8380bba687cbe98"
 metafile = true
 
 [[files]]
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-glow-up.pw.toml"
-hash = "1679dd1702e08d03983b827e9bc61cb91453cd7d1e257a02431e0141a541e2d5"
+hash = "0fd9ccc5fff10c2da76834dc27fe3252f690e2671a06b5aeb10cd71058057a39"
 metafile = true
 
 [[files]]
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "580d838b5866719ef26684ff99beeceaa2e98d8b259e7944197dbad1cffda525"
+hash = "52ca6fe02f7242daf7e3d253f9e6b26c16535896ae731163827d90e3fe174c9e"
 metafile = true
 
 [[files]]
@@ -700,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/serene-shrubbery-fabric.pw.toml"
-hash = "1e96e3548a5f8d85177d2c0cd6569ca577a4b280a2bb925fab0676fd747a0495"
+hash = "f76da7f32fc6a1791f4bc4e1f20d677a6e9fdc69c6aa6c508b5c8f7454b75e35"
 metafile = true
 
 [[files]]
@@ -710,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "3e0c8e0e78ced5db1703fa1ce676c23db352a0bff68789ccda99edd899751ec1"
+hash = "60cce151dc2d10f446a39ccc5ae974d374ffe31e16984b51f913c65e795642f3"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "3bdf656d1c1152f5acae9f8291e4f5f6dfa970e7a3f81928d81099bc99a0ef2d"
+hash = "0207774efd7d3e152b4488f5c29dced86da6236cb17e436ec58ea6ff4ef25230"
 metafile = true
 
 [[files]]

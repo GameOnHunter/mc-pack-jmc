@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "8c9acc3fc936af609dc7f2efb10a5cb894b237feb1427c102934a34fb81948a9"
+hash = "de7bb9eecb68ac760a184374d6c59f24fa905ab11983a0f92b65113ad9d54c9a"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "15b44f72536a7b33c67347ea3f1a1357a431c13392439bdc99e7ebc75c31d735"
+hash = "5fad0bd9dc3e8286dfb38e0fbf18ad7db6bf864611ac45be09bf18ce93c4ee3a"
 metafile = true
 
 [[files]]
@@ -132,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/chunkyborder.pw.toml"
 hash = "963019c7792b7805d9012031a15abaf25ab4524cb509f7e6f679bf5de881a2b5"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "e5196147e561521c5a3ebaea601191e442d252cc8f0a7be8ba8db136f93c44fe"
 metafile = true
 
 [[files]]
@@ -192,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/dark-paintings.pw.toml"
 hash = "a2656a20280215a64f67709a3db7540d308fe24b5e72e150af535c987acb7efa"
+metafile = true
+
+[[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "7f4628ec9c68eb718aa4024f091f89b6eec91c261a2cf93bd9052110ce91dba2"
 metafile = true
 
 [[files]]
@@ -391,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "141cd1f71d9d355f298cea082e8a9cd69c91909d72405e7dfbe8dda9528f66d4"
+hash = "22b547bb92e178f3074bc4f34056faa32f1a294731166adf67b6a80cc3744d52"
 metafile = true
 
 [[files]]
@@ -462,6 +472,11 @@ metafile = true
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "1cb8c40a13f61da31fd0a038d94c5fc289765a88379940d39061411707dae1a2"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "647807ff387e333abd790b47082a3cf6b7d41a2b27a4337ff65a611f096a7315"
 metafile = true
 
 [[files]]
@@ -700,6 +715,11 @@ hash = "f76da7f32fc6a1791f4bc4e1f20d677a6e9fdc69c6aa6c508b5c8f7454b75e35"
 metafile = true
 
 [[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "26a06bacc278a6541cdf6a1301210167031cf2398fa3467df7e5b87092afe37f"
+metafile = true
+
+[[files]]
 file = "mods/simple-magnets.pw.toml"
 hash = "568bed088a7adb90d12493c90fefd5b969ca1db58df16f4a0cde740d14d704e1"
 metafile = true
@@ -847,6 +867,11 @@ metafile = true
 [[files]]
 file = "mods/vehicle-upgrade.pw.toml"
 hash = "9759e7b5d358ba2d9d73dd46aa227b6b3106a4a1847d82b90c489bf061af0dbf"
+metafile = true
+
+[[files]]
+file = "mods/via-romana.pw.toml"
+hash = "7095e42979ee662e492fe2b30fc867ab55aeb0e746df2fc872311cd290b877c6"
 metafile = true
 
 [[files]]

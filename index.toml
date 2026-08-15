@@ -90,11 +90,6 @@ hash = "6d964f626b27efe9a04f123f706538246ca7e8ae16cb23f901428341326f3662"
 metafile = true
 
 [[files]]
-file = "mods/beautify-refabricated.pw.toml"
-hash = "fdd247219e0dbfd147cfd230ab53c7ea2fbfeda33bcf89e8890ed965bf024246"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "7c45c50ac2431db0dd3697e16a180a55ac0f2a753540b0bd310eb593b8b0bd0a"
 metafile = true
@@ -132,11 +127,6 @@ metafile = true
 [[files]]
 file = "mods/block-runner.pw.toml"
 hash = "57016de5a9b368443b9a672dc24a24548e5ce539fc81c793e53b8adb3ff084d7"
-metafile = true
-
-[[files]]
-file = "mods/bobby.pw.toml"
-hash = "45ffd0f1d01dee1c16c71bc4371b8a9bd64c96d30eabda818983afd0f4d62f5e"
 metafile = true
 
 [[files]]

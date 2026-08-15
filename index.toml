@@ -445,6 +445,11 @@ hash = "46e175b662617498d6f250e57f3f66b1b39a40252933b3466e1ff6a7f6209725"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "8e4073b493fc9a8f8d1ccc9ab29d37f9f4413271e7dc8bed30357616a3dface1"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "88b5510e39cdc8ca356d54bc436edc777d5eafc03203a8724784183408fe6792"
 metafile = true
@@ -720,6 +725,11 @@ hash = "26a06bacc278a6541cdf6a1301210167031cf2398fa3467df7e5b87092afe37f"
 metafile = true
 
 [[files]]
+file = "mods/simple-craft-editor.pw.toml"
+hash = "3867ca74e260758c4b596f362f7bb19dae0877729f8a0a8b24cb58fcfd9e1e0e"
+metafile = true
+
+[[files]]
 file = "mods/simple-magnets.pw.toml"
 hash = "568bed088a7adb90d12493c90fefd5b969ca1db58df16f4a0cde740d14d704e1"
 metafile = true
@@ -857,6 +867,11 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "b1e22f248b0836a0035b59ac6ae1bf8d8a0adb0b75b1d189d5ab8e3cebd3cd81"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "9f3e865adc7318ec2072cd02a9d7f3dad9e4c1214249c04ebfdefcc39336b2e7"
 metafile = true
 
 [[files]]

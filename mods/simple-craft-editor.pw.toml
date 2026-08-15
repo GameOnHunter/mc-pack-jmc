@@ -1,0 +1,13 @@
+name = "Simple Craft Editor"
+filename = "SimpleCraftEditor-fabric-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gj2KV14c/versions/XFjk8wC5/SimpleCraftEditor-fabric-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "7deae35c437a95352b65d8a3e214751a2ebc28968c20826a969aa7d3c37c1fdb014fcacf729e1b3251253cab64024f495a50a9b291beadf4762600306940440f"
+
+[update]
+[update.modrinth]
+mod-id = "gj2KV14c"
+version = "XFjk8wC5"

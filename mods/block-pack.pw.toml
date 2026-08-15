@@ -1,13 +1,13 @@
 name = "Block Pack"
-filename = "bf_blockpack-fabric-1.21.1-1.0.11.jar"
+filename = "bf_blockpack-fabric-1.21.1-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/An633Gxh/versions/pnsBnHzP/bf_blockpack-fabric-1.21.1-1.0.11.jar"
+url = "https://cdn.modrinth.com/data/An633Gxh/versions/mo4Ny9NU/bf_blockpack-fabric-1.21.1-1.1.0.jar"
 hash-format = "sha512"
-hash = "55d8f89bfceeca07e69d74dee9358fd6965f32ee99cbc9fa062bb401f43ac82772fb0eec58d780782f966bd1f6b679def21c5f3014e81a8744ca624b0fc1bee7"
+hash = "2187b604674cf213974d7bd79e4f0935fbaf9acda59025ea6c58ec72665fc9bef40bae3f61a042b11a4ff0fabafa6440f9b97b5a7167b754d52689b7814e6a88"
 
 [update]
 [update.modrinth]
 mod-id = "An633Gxh"
-version = "pnsBnHzP"
+version = "mo4Ny9NU"

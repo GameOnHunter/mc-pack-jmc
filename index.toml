@@ -9,6 +9,10 @@ file = "config/betterf3.json"
 hash = "65deb82b1bbf900bb41d8be314a90a86ba00f8645c84d965d2d52d5f914c8b85"
 
 [[files]]
+file = "config/completionistsindex-client.toml"
+hash = "14ca28272ff02d53a31f31a6f76490c1adc0dc8f654670051ad84e7929000861"
+
+[[files]]
 file = "config/coordinatesdisplay.json"
 hash = "db6a5c86397631b3bc154094fcfa731ac88e3e3c89b10e963ed435d4986cefe5"
 
@@ -616,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "52ca6fe02f7242daf7e3d253f9e6b26c16535896ae731163827d90e3fe174c9e"
+hash = "9760f2fada93dba5558b431bd4b8f70a29fd058c620928419cd269b5c9a89548"
 metafile = true
 
 [[files]]
@@ -921,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "e2e3a2a52305358df9a1f28acf1c1640ac006b27161442c55408e090756ea8df"
+hash = "a9afe82b3d1b4975dd9f8b3272898450aeb29365678b3779059977301f88c101"
 metafile = true
 
 [[files]]

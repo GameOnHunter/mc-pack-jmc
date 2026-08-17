@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a3a9ecc2b89b53f90ed6c2101e24baa9343827134e8f0468826d2e028976e01c"
+hash = "e7ff198d3548b5944eb78563a0b6a4ceaff11cce9f5570362ec35bfe96370e8e"
 metafile = true
 
 [[files]]
@@ -705,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "53fc6acbaea7dff4fc83f49db785e89f3b3fb1405a6cbbdd4b22ec9f4f335a11"
+hash = "6d79b6bf55ac384e1b5bd3121f978c6fa469afc78a53dd5eedc3e016d70fd396"
 metafile = true
 
 [[files]]
@@ -719,6 +719,11 @@ hash = "af6de4e48064926264441ace0dc8f3193deedd534e2963c25a7700d4dfa6f825"
 metafile = true
 
 [[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "4ccbb6584b31d773a90bed3ccaf9704eeec840d3f4e33953b1b7757db6c743f8"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
@@ -726,6 +731,11 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "1c13286be4f09e25c93ef1640335a951df1dd0f155f6d7a173dfc284831e09c3"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "8a64fdd5384cd26c91475a423f3bec24dd4d98796df7683a5070ef105d421ba4"
 metafile = true
 
 [[files]]
@@ -751,6 +761,11 @@ metafile = true
 [[files]]
 file = "mods/reach-behind.pw.toml"
 hash = "9991d8b2353fb8cc75745eabcdec92d37d57faa028e7f501c1b38ff25cbdd5c1"
+metafile = true
+
+[[files]]
+file = "mods/redstonepen.pw.toml"
+hash = "18753527f393c51d6296b4fd4a3b3a8bfa698b592bc47898551968d6f682e395"
 metafile = true
 
 [[files]]
@@ -915,7 +930,7 @@ metafile = true
 
 [[files]]
 file = "mods/too-many-paintings.pw.toml"
-hash = "d6749124a49143061e91b129eb2a0c854e0b3ca4c835be238b0f3fe3c961271f"
+hash = "e3dc696707c09b616bd7e4f44f05d80fbd8faaec8229195077820c68f3435ad9"
 metafile = true
 
 [[files]]

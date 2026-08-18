@@ -144,6 +144,11 @@ hash = "c41ddc84378757d40c8fc262a8f215f4af8c943ebcba46bcf0150259cec029bd"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "9b5593d3506a603628f4222dd9d3b3aa0278517deab4edae0f0f31dbeccfcf11"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "742112e9a70435126ef930bad4bbd9d9e036f8f4fe681b08ad470d1b3209f9b8"
 metafile = true
@@ -971,6 +976,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/trowel.pw.toml"
+hash = "358c974c2b3bb204e3b7af527e32e5939af2261ec5aebb57a87b19a7848f4a05"
 metafile = true
 
 [[files]]

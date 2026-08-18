@@ -144,11 +144,6 @@ hash = "c41ddc84378757d40c8fc262a8f215f4af8c943ebcba46bcf0150259cec029bd"
 metafile = true
 
 [[files]]
-file = "mods/building-wands.pw.toml"
-hash = "9b5593d3506a603628f4222dd9d3b3aa0278517deab4edae0f0f31dbeccfcf11"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "742112e9a70435126ef930bad4bbd9d9e036f8f4fe681b08ad470d1b3209f9b8"
 metafile = true
@@ -315,17 +310,17 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
-hash = "5c3c82a51818c3482a3ed748dffc5e00b511b53dce862884cef0b7547affcaf9"
+hash = "a8bee71910c4acb521337cfdc483adc4ed811a1b8ada903dd1e2685dad637528"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc-core.pw.toml"
-hash = "4c24b901b6dcf42aa80b17a53ebe0939e7cc7920654ad479c166ad887b2cdf7c"
+hash = "56c4b5b4457ab7816584e831819e0f0f8778902a739cf6b4f0e1f785aad07491"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "a561677b90880674ad4bb37efb95bd82c10ef592b2a0f63071d60de42bacf39f"
+hash = "c12e933ecc626857379be57628dbed729d9d8928969c2161292c537057b961f1"
 metafile = true
 
 [[files]]
@@ -615,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "6ecc3ee757a906b4f98b4f969c55a6c6378e5b4ba9dfa05b3c91ca0e483e666f"
+hash = "4206cb23fb1a88c18a72e88c92d04d2dabd0068e5371945055e4ab612f6a3c2f"
 metafile = true
 
 [[files]]
@@ -625,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9760f2fada93dba5558b431bd4b8f70a29fd058c620928419cd269b5c9a89548"
+hash = "3b6f06b06bbf117b16d33c7685661f2d665982179339c01d828074ae4f802366"
 metafile = true
 
 [[files]]
@@ -675,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "50f72e4f9437d0719d952fdc72534508fc2fac7c74f4e785d21b84512fb6f573"
+hash = "e8d526d220a8f9400c734e4a5c4ce4b691c81d2dc3d83a54a7e8b335c235bf0a"
 metafile = true
 
 [[files]]

@@ -359,6 +359,11 @@ hash = "8c091c9a660b84f152e47c0d835d8865463ad79636264a68ca6d312399b46538"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "def0429c61fc8e6b8f4cc3a8f61d491c99b7682d34be008f213659e0982a74db"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "0f6ef76068ccf1e3607722151921861e27783c6951b2e7a724eccce3951d6447"
 metafile = true

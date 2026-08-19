@@ -29,21 +29,6 @@ file = "config/xaero/world-map/profiles/default.cfg"
 hash = "006f4db566e3a9e154e251e5683f48454c990357dad8aa18580e19d9b86daa7f"
 
 [[files]]
-file = "mods/aether-emissivity.pw.toml"
-hash = "c4eb0659a59e606067e2feca6ff3e52af8d5b2d59321debd1c8f0059fcedfb84"
-metafile = true
-
-[[files]]
-file = "mods/aether-treasure-reforging.pw.toml"
-hash = "21ff8ec1ed6ca9c97dabfa04dd28a6f4c79f29f8b782977687b1085744cc53b2"
-metafile = true
-
-[[files]]
-file = "mods/aether.pw.toml"
-hash = "e71c04679ff75573cd8ef1003eb167830f794b8979f2bdd3c99d28793f2918b0"
-metafile = true
-
-[[files]]
 file = "mods/almanac.pw.toml"
 hash = "01174ec973f9c2267f4d6ae6040941a3e764af58f9fa0b0a9f2914ce5630d728"
 metafile = true
@@ -286,11 +271,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
-metafile = true
-
-[[files]]
-file = "mods/deeperdarker.pw.toml"
-hash = "d056036f71ac0fe66147f415e0142c1fd8889c065b7f1e5880ad3d46c583136f"
 metafile = true
 
 [[files]]
@@ -654,16 +634,6 @@ hash = "69d1edb0425def4fc6cb900dd827adb970926a479351e4b96296984fc45b0727"
 metafile = true
 
 [[files]]
-file = "mods/moremcmeta-emissive.pw.toml"
-hash = "13d1cb8929fd816f844678ead9be8f94547fe62c7fdf7c022c83a7d47b65650e"
-metafile = true
-
-[[files]]
-file = "mods/moremcmeta.pw.toml"
-hash = "d3e7fa80ec843d25687ef3028cef6e3eb73cdb96a43cc18ef697ff9b30e8ca96"
-metafile = true
-
-[[files]]
 file = "mods/mtr-moogs-temples-reimagined.pw.toml"
 hash = "f3dfcd04ff4c4bce3b31eb881cd703af711fef0aec5058285e67807db6c589f9"
 metafile = true
@@ -721,11 +691,6 @@ metafile = true
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "88c410db35e0f78c6c699dbd801215407d590b49fb3bbfd0d2094b5def538b4d"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "31e7b4d016cbdf3f0abbb1ab202cf60e84ff8330ebbf6f043739128fb9133fad"
 metafile = true
 
 [[files]]
@@ -941,11 +906,6 @@ metafile = true
 [[files]]
 file = "mods/the-block-box-re-fabricated.pw.toml"
 hash = "3b567a7d5515e95da131edfc90db9bb8aea7ef17553a9935c116fda64cbaf6a4"
-metafile = true
-
-[[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "e493a296874391f0f88985db40e935ab2e2be11faa59a358496180db1efcccb2"
 metafile = true
 
 [[files]]

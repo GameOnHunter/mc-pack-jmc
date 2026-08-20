@@ -964,6 +964,11 @@ hash = "bba9c0a91f4e565e84f34169d10acbd2f7b620e3fcf23b132d2f40f1766a86e6"
 metafile = true
 
 [[files]]
+file = "mods/trashslot-blacklist.pw.toml"
+hash = "a5fb0c344517164052e12554569439fc0699ead64ac89fb91a9f07bb2eb3d62e"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "5f66e0f764c4afcc9b92f97dba46c647941f586b433d0991a6229aedcd700751"
 metafile = true

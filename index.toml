@@ -469,8 +469,8 @@ hash = "e7ff198d3548b5944eb78563a0b6a4ceaff11cce9f5570362ec35bfe96370e8e"
 metafile = true
 
 [[files]]
-file = "mods/inventory-essentials.pw.toml"
-hash = "27ede14af860d7249c4bb579853116fefc397bf91e2533d1d0e02a4aae18bdbd"
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "e7820822a31d29cf5227b19046d7e84e73b7ae3e689c96e5fbdf1f8073b6f9ad"
 metafile = true
 
 [[files]]
@@ -511,6 +511,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-furniture.pw.toml"
 hash = "d904d6871373d0813d8e9eccf161ac9ac5b19f6f5a74af6d3382c43ac7ca761f"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "78eafe609d6474acab89104fe0f47d15c00348974c1d4d9b95599ee20a213dbe"
 metafile = true
 
 [[files]]
@@ -866,11 +871,6 @@ metafile = true
 [[files]]
 file = "mods/spiky-spikes.pw.toml"
 hash = "6281c8a75747d4794b03f359d41238dbb4ac8a21d7e21820063f3ec4ede7d9a2"
-metafile = true
-
-[[files]]
-file = "mods/stack-refill.pw.toml"
-hash = "00da2960ca396b98aee61d0b3b73bff01ed2ae22569df718f5f1028a04819bf6"
 metafile = true
 
 [[files]]

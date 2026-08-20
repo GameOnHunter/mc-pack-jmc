@@ -1,12 +1,12 @@
 name = "Journey MC"
 author = "GameOnHunter"
-version = "29.0.0"
+version = "21.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c283469623087845eff7fb4884bdfb38043fd22a952c712ed19a95806a03875c"
+hash = "aa9b0d2cd7bb3588830eca3a6006139fbb1913fcb104880dd04696737449648d"
 
 [versions]
 fabric = "0.19.3"

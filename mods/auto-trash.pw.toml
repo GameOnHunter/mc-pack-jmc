@@ -1,0 +1,13 @@
+name = "Auto Trash"
+filename = "autotrash-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/myoG8Xrv/versions/RR4KxBKP/autotrash-1.3.0.jar"
+hash-format = "sha512"
+hash = "6a9aef61e16b262aa84da83df721d24c56c93cec4546d4b12026626434bbf49b37109b488068cf027dea2b400e9eacef0dde4fb3c93e720a5b2b913abd4b6f43"
+
+[update]
+[update.modrinth]
+mod-id = "myoG8Xrv"
+version = "RR4KxBKP"

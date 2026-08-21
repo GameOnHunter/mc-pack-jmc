@@ -74,6 +74,11 @@ hash = "ec89081755e8962d7703662b575139c5fabe0ae2515bad42da17092fa78d9b61"
 metafile = true
 
 [[files]]
+file = "mods/auto-trash.pw.toml"
+hash = "2e784f584f02955fc08f4287babcf14c82a462b34d4ab466b1af043934c74d8f"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "548fd4fb575afda9a809d45bace11a95aae191f632a90f0dde4014b9829f6e0c"
 metafile = true
@@ -310,17 +315,17 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
-hash = "a8bee71910c4acb521337cfdc483adc4ed811a1b8ada903dd1e2685dad637528"
+hash = "dc9537dbc1aa92f8f37c062f27c5c10180edeaaad3ecc98dcb1c4cfadf10de9d"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc-core.pw.toml"
-hash = "56c4b5b4457ab7816584e831819e0f0f8778902a739cf6b4f0e1f785aad07491"
+hash = "73d3f1915d544343885f586c1e81ea4c2b522aaf1a2e86c63ab9078ed8f574a8"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "c12e933ecc626857379be57628dbed729d9d8928969c2161292c537057b961f1"
+hash = "a683573074854fbf93e94f0ca4f24c041723721431e61bfebf71e9a6ef1fa83c"
 metafile = true
 
 [[files]]
@@ -425,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "0435214cac8b6b4a69a298bc25f1862328a4da5345f7cd4591affd0d8ed9456e"
+hash = "e68be18d588ba74679c32983538eaac3b7e5d441f2b0edeba1a9fdcf6b3420d4"
 metafile = true
 
 [[files]]
@@ -530,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "8e4073b493fc9a8f8d1ccc9ab29d37f9f4413271e7dc8bed30357616a3dface1"
+hash = "4a29f6cc5725671b0172a1d32e750f53bbf311e600fb184566b465add4486f85"
 metafile = true
 
 [[files]]
@@ -680,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "653c9d353610cd532c1fbeaef29d1a15fc695f98531bd779ce15b2044b98f8e1"
+hash = "d86c9c902af858b45719ca7cbbfa4d8820191491269f3d730e70baca1409f3e9"
 metafile = true
 
 [[files]]
@@ -961,11 +966,6 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "bba9c0a91f4e565e84f34169d10acbd2f7b620e3fcf23b132d2f40f1766a86e6"
-metafile = true
-
-[[files]]
-file = "mods/trashslot-blacklist.pw.toml"
-hash = "a5fb0c344517164052e12554569439fc0699ead64ac89fb91a9f07bb2eb3d62e"
 metafile = true
 
 [[files]]

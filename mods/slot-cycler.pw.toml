@@ -1,0 +1,13 @@
+name = "Slot Cycler"
+filename = "SlotCycler-v21.1.1-1.21.1-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3kl8Lmm9/versions/9BnvDBto/SlotCycler-v21.1.1-1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "cc9dfa575d628af3cfa6a52ccf30e80b138ebef7cc419d972b0295d600d9d1bef64a0655bcc0b2989dbac78539fb00110c9dc631629f1045c694e8b330b116e8"
+
+[update]
+[update.modrinth]
+mod-id = "3kl8Lmm9"
+version = "9BnvDBto"

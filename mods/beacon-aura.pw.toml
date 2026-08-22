@@ -1,0 +1,13 @@
+name = "Beacon Aura"
+filename = "beacon-aura-1.0.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/oi5bUWti/versions/UoeaZCYm/beacon-aura-1.0.4.jar"
+hash-format = "sha512"
+hash = "ec07d2875671e788e96a9d6e63720af1875ce74319e2020ab64128d5cf636a5f90f94b11a25a3f5bd39501607e7f3685b40e34ba11aeda2ca15bcec426903d1b"
+
+[update]
+[update.modrinth]
+mod-id = "oi5bUWti"
+version = "UoeaZCYm"

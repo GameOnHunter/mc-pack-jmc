@@ -17,6 +17,10 @@ file = "config/coordinatesdisplay.json"
 hash = "db6a5c86397631b3bc154094fcfa731ac88e3e3c89b10e963ed435d4986cefe5"
 
 [[files]]
+file = "config/inventoryhud.json"
+hash = "f018a670870f2eb80cca5edea223d1e6e5a4872b645fd1c5228e0c506d8669ee"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "521c488e4290313faaa0a4a221e70ddd77762383188c7e90921cb5c9b5456631"
 
@@ -966,11 +970,6 @@ metafile = true
 [[files]]
 file = "mods/too-many-paintings.pw.toml"
 hash = "e3dc696707c09b616bd7e4f44f05d80fbd8faaec8229195077820c68f3435ad9"
-metafile = true
-
-[[files]]
-file = "mods/tool-trims.pw.toml"
-hash = "580c4fbb12a2f983bbe1976d02182f8b0d0660a8d4db7a6b608700903bfd948e"
 metafile = true
 
 [[files]]

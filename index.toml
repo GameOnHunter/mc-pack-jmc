@@ -484,13 +484,13 @@ hash = "e7ff198d3548b5944eb78563a0b6a4ceaff11cce9f5570362ec35bfe96370e8e"
 metafile = true
 
 [[files]]
-file = "mods/inventory-hud+-by-soulspeed.pw.toml"
-hash = "79b04f83579be10b7c628e6e281d9f8ccb6857b04c583e4306f9e52b38180c29"
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "e7820822a31d29cf5227b19046d7e84e73b7ae3e689c96e5fbdf1f8073b6f9ad"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "e7820822a31d29cf5227b19046d7e84e73b7ae3e689c96e5fbdf1f8073b6f9ad"
+file = "mods/inventoryhudplus.pw.toml"
+hash = "b6d22a63ff50fbc3352332be1dc17dcf93a62591d8364df7153240acdc24f975"
 metafile = true
 
 [[files]]

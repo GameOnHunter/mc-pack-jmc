@@ -1043,6 +1043,11 @@ hash = "ab5bafba379197683040b9c2019bd967f963cff4a94af8d5aafc6c6639f68b13"
 metafile = true
 
 [[files]]
+file = "mods/unidye.pw.toml"
+hash = "ed80acc7833df1d4be6c4b579a04846794af17bfc52d5a6c3cba28c311a78e4e"
+metafile = true
+
+[[files]]
 file = "mods/universal-bone-meal.pw.toml"
 hash = "dd97ed76130660180201530600cb7144f6497a3af62f06759ec0ddb49c5de3e3"
 metafile = true

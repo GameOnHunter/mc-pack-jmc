@@ -324,17 +324,17 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
-hash = "dc9537dbc1aa92f8f37c062f27c5c10180edeaaad3ecc98dcb1c4cfadf10de9d"
+hash = "9ad609d391a441624443eb7b0e340c9cf98d5890619d877bfce821deac8615c0"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc-core.pw.toml"
-hash = "73d3f1915d544343885f586c1e81ea4c2b522aaf1a2e86c63ab9078ed8f574a8"
+hash = "0b80bef91b6a376db5283b2ac95b38504a1bbd390e0e892111de99bc4d04c79e"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "a683573074854fbf93e94f0ca4f24c041723721431e61bfebf71e9a6ef1fa83c"
+hash = "d72e052ded12fcc822ce5ab71ce491cd194965b227af2222ac193915ff483e84"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "e68be18d588ba74679c32983538eaac3b7e5d441f2b0edeba1a9fdcf6b3420d4"
+hash = "b1392185995b34fce8435002ec5f0ce5dc430a6b2cf4a954b1e5ad41c7e98b3c"
 metafile = true
 
 [[files]]
@@ -654,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0e8eb6f9a21a0dabd936440a43f97122a05baa9d318e5a6bb2697fc42aecae98"
+hash = "68441cbc0ec8ee27ff012c928cdf4864c26820ec1c0ab9bce1980e066b22f364"
 metafile = true
 
 [[files]]
@@ -865,6 +865,11 @@ metafile = true
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "26a06bacc278a6541cdf6a1301210167031cf2398fa3467df7e5b87092afe37f"
+metafile = true
+
+[[files]]
+file = "mods/simple-captcha.pw.toml"
+hash = "6fa8bb652553db567b4339b4dac0267a1ac187ab6c688d131d56a8de39d2d538"
 metafile = true
 
 [[files]]
@@ -1124,5 +1129,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "43c4f5e052b72a8ceaf9d8e5d1000760464d4f0e9d630827140ec4dcb21832e6"
+hash = "ca905561def034cbfa51127dd55967fbb552a7eb2a7fc2481d16676c6aa59083"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Simple Captcha"
+filename = "simple-captcha-1.4-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fHCQImgZ/versions/VaBpO0uH/simple-captcha-1.4-1.21.jar"
+hash-format = "sha512"
+hash = "78ab4f09282ae69e77765d30f42606e677e47e71bc33f7467e8548ed62157a3527060d20eb04e5e4d9383cfaf4a225c5344c5f4e8ea248d5f7afbfa7aa4ee079"
+
+[update]
+[update.modrinth]
+mod-id = "fHCQImgZ"
+version = "VaBpO0uH"

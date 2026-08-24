@@ -483,6 +483,11 @@ hash = "3839ee391a2ae0ccfd0be541fb5d0e286f89100b9ace922e463b15c94f674a9e"
 metafile = true
 
 [[files]]
+file = "mods/icommon.pw.toml"
+hash = "b76196706d9189c52a5c3d7c8a8a6e3b08d41bf2e441597ce2ccc2d6efe2a6b3"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "e7ff198d3548b5944eb78563a0b6a4ceaff11cce9f5570362ec35bfe96370e8e"
 metafile = true
@@ -583,6 +588,11 @@ hash = "42d8a185a6aad086a1e27eb6f41ac78e088297ebcdfde83bdd2f2c3a94ba0e5b"
 metafile = true
 
 [[files]]
+file = "mods/mech-trowel.pw.toml"
+hash = "b3b64b697091841cc3e3d6595c300e3ad55e048672669c4b89d676b9a2e2a15b"
+metafile = true
+
+[[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "1cb8c40a13f61da31fd0a038d94c5fc289765a88379940d39061411707dae1a2"
 metafile = true
@@ -665,6 +675,11 @@ metafile = true
 [[files]]
 file = "mods/mtr-moogs-temples-reimagined.pw.toml"
 hash = "f3dfcd04ff4c4bce3b31eb881cd703af711fef0aec5058285e67807db6c589f9"
+metafile = true
+
+[[files]]
+file = "mods/multiworld.pw.toml"
+hash = "9cdb9afcd62b26e5645794f9bca080f00850ca68ed48226cb7cc1a944da7169e"
 metafile = true
 
 [[files]]
@@ -1025,6 +1040,11 @@ metafile = true
 [[files]]
 file = "mods/tsa-decorations.pw.toml"
 hash = "ab5bafba379197683040b9c2019bd967f963cff4a94af8d5aafc6c6639f68b13"
+metafile = true
+
+[[files]]
+file = "mods/unidye.pw.toml"
+hash = "c4ca438a4e54aa5ec998eafbf062c47a89446a9d073cfc888b8a99abc5f96b94"
 metafile = true
 
 [[files]]

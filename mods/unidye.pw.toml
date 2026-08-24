@@ -1,0 +1,13 @@
+name = "Unidye"
+filename = "unidye-1.2.4+1.21-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d92f9ae54b5d118836622dff10dbde7793fca1e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6613858
+project-id = 1130560

@@ -1,0 +1,13 @@
+name = "Blades of Majestica"
+filename = "Blades Of Majestica.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3tXcbjvK/versions/tuCBbcIL/Blades%20Of%20Majestica.zip"
+hash-format = "sha512"
+hash = "46c88c4c9969b8e026da274e103281f6f3a8909533684ba8fe92a06c1025fe43009add5606eae928c75137790c7ee8d2978a538405adac17142a6a893be8dab9"
+
+[update]
+[update.modrinth]
+mod-id = "3tXcbjvK"
+version = "tuCBbcIL"

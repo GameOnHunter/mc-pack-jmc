@@ -193,6 +193,11 @@ hash = "e5196147e561521c5a3ebaea601191e442d252cc8f0a7be8ba8db136f93c44fe"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
@@ -343,6 +348,11 @@ hash = "3f79aadc20ee02e53d1810892f0cd9e037575b1a6cf26505a3a514c24f2a55c7"
 metafile = true
 
 [[files]]
+file = "mods/echo-chest.pw.toml"
+hash = "713b1e22a35b604ae56b3b55dd957276bcb611fce663c415b89bdd078f38ac21"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "828d89788e3afcbdb42bff8900e2042cc76bad80bb63956c7a2a9f7f98831f54"
 metafile = true
@@ -444,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "e68be18d588ba74679c32983538eaac3b7e5d441f2b0edeba1a9fdcf6b3420d4"
+hash = "b1392185995b34fce8435002ec5f0ce5dc430a6b2cf4a954b1e5ad41c7e98b3c"
 metafile = true
 
 [[files]]
@@ -654,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "1dc8f8a0888ac823f5712987fe052d55a8275836a5ed42ee81dfb87e4bb89ca0"
+hash = "bcf5bfeb377eff7317666f834de4feae6ee8313431e8b5965a54413db31e0e30"
 metafile = true
 
 [[files]]
@@ -1115,6 +1125,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
+metafile = true
+
+[[files]]
+file = "resourcepacks/blades-of-majestica.pw.toml"
+hash = "5bd9599e18825959473a4d0fc80148f1d9fa161c1485fc485ff333d6b3b275af"
 metafile = true
 
 [[files]]

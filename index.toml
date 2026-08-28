@@ -278,6 +278,11 @@ hash = "a2656a20280215a64f67709a3db7540d308fe24b5e72e150af535c987acb7efa"
 metafile = true
 
 [[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "7f4628ec9c68eb718aa4024f091f89b6eec91c261a2cf93bd9052110ce91dba2"
+metafile = true
+
+[[files]]
 file = "mods/dawn-of-time.pw.toml"
 hash = "fd49b97b25a4d0d5dd351ae2b526c93b14f80a8dd6ba61d6fef71744a846f858"
 metafile = true
@@ -603,6 +608,11 @@ hash = "1cb8c40a13f61da31fd0a038d94c5fc289765a88379940d39061411707dae1a2"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "647807ff387e333abd790b47082a3cf6b7d41a2b27a4337ff65a611f096a7315"
+metafile = true
+
+[[files]]
 file = "mods/minecart-upgrade.pw.toml"
 hash = "f9b122851aede08b4144de1f357dd0bd7d291a1ec5517b5ec791d136bd43917a"
 metafile = true
@@ -660,6 +670,11 @@ metafile = true
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "894ee34cd14eeceaec40cd812b92d413322c587ed4d779ee9c5ac9d0a22ba722"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "5554df5abbed4e6f3414043f810a117caf70f0137bf0d86fe612b0e7f86d280e"
 metafile = true
 
 [[files]]
@@ -1065,6 +1080,11 @@ metafile = true
 [[files]]
 file = "mods/vehicle-upgrade.pw.toml"
 hash = "9759e7b5d358ba2d9d73dd46aa227b6b3106a4a1847d82b90c489bf061af0dbf"
+metafile = true
+
+[[files]]
+file = "mods/via-romana.pw.toml"
+hash = "7095e42979ee662e492fe2b30fc867ab55aeb0e746df2fc872311cd290b877c6"
 metafile = true
 
 [[files]]

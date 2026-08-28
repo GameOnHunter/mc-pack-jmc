@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/block-pack.pw.toml"
-hash = "757b7fe293cda9394e7fdadd80e442a3d75070bc48f2b8bf0f9c6fe1a064bd26"
+hash = "7ae8c14e586be8006d4e6a98236b97e9cd713a68092ad5c833580010085eaa6c"
 metafile = true
 
 [[files]]
@@ -329,17 +329,17 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
-hash = "9ad609d391a441624443eb7b0e340c9cf98d5890619d877bfce821deac8615c0"
+hash = "610ebc6dcc71232ae19cfd9ba9e2b9fa21f36c4d49088cbf832ebdabec6a6359"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc-core.pw.toml"
-hash = "0b80bef91b6a376db5283b2ac95b38504a1bbd390e0e892111de99bc4d04c79e"
+hash = "d8e593e6504845b1a23a1ef07d594f6f568b64aae4b8975f4620f5a180bc2fba"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "d72e052ded12fcc822ce5ab71ce491cd194965b227af2222ac193915ff483e84"
+hash = "e672ec03ab72c13662a578a43532549c1afc49008cfe874a76a599b9e97af26e"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e7ff198d3548b5944eb78563a0b6a4ceaff11cce9f5570362ec35bfe96370e8e"
+hash = "3e0eba292b6a2031f8ed10f8d38ba1ebab274ae0ff32151530dfd831afcd46b9"
 metafile = true
 
 [[files]]
@@ -919,7 +919,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "60cce151dc2d10f446a39ccc5ae974d374ffe31e16984b51f913c65e795642f3"
+hash = "869af67848bf3b9ba4384bc9fb0cbe303d35263bd8de75eeabcba796edf4d7c6"
 metafile = true
 
 [[files]]

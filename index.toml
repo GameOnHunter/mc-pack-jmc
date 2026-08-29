@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0fb3808193da9b587367337d12d202d7b006e2522637a6502913d66a84f8626f"
+hash = "2f62a5eb5fcd3b2a9cd374376cc996c4cc96934a190fc8b08fdaa7bc42c9fbf1"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0f6ef76068ccf1e3607722151921861e27783c6951b2e7a724eccce3951d6447"
+hash = "3aef8c5db8ebe27c58add9ebb8229271ef99d6100b23740709dd96dfceaef99a"
 metafile = true
 
 [[files]]
@@ -450,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
 hash = "41a33d7ede79aa32cc684e020cd0a8dcbc2e41476d159f4e8cb658ae77b3414d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ranks-fabric.pw.toml"
+hash = "605c8018955700f8f1fb7f674f8dc09fdcdc16fba57ec4f46f07d5c8272b2c9e"
 metafile = true
 
 [[files]]

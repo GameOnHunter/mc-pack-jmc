@@ -1,0 +1,13 @@
+name = "filament"
+filename = "filament-1.3.22+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ecddd60644d08ef599069733efaa8af9c88170d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7426660
+project-id = 1118465

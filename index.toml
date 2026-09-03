@@ -394,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
+hash = "774fd0adcb4fdc2e8f90991fe3515e68f21d41a10b9daa8094bb2f7b78790df6"
 metafile = true
 
 [[files]]
@@ -425,6 +425,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
+metafile = true
+
+[[files]]
+file = "mods/filament.pw.toml"
+hash = "7046d5d60ad63734a690ca24a1e808f7eb34ebd645d79034a90b9752cdc728bd"
 metafile = true
 
 [[files]]
@@ -794,7 +799,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "1c13286be4f09e25c93ef1640335a951df1dd0f155f6d7a173dfc284831e09c3"
+hash = "edf814fc31956cd8b152b163caea5a8edde9109dbb8e5d5e35649906c91fe5a4"
 metafile = true
 
 [[files]]

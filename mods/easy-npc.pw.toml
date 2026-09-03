@@ -1,13 +1,13 @@
 name = "Easy NPC"
-filename = "easy_npc_bundle-fabric-1.21.1-7.10.0.jar"
+filename = "easy_npc_bundle-fabric-1.21.1-7.11.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CgGEe1h3/versions/HNlZG0hl/easy_npc_bundle-fabric-1.21.1-7.10.0.jar"
+url = "https://cdn.modrinth.com/data/CgGEe1h3/versions/WDks47Wb/easy_npc_bundle-fabric-1.21.1-7.11.0.jar"
 hash-format = "sha512"
-hash = "d4d782e45931b244325403b3b01c724f02d0fe018e8f02120892393d8af45547f5d490d033afc2d5ca2fd70d54dd4436ca3a6405cbe50dfcc2b7db55f037e8f6"
+hash = "689e57f2cf15f090e7fd31b0cbff626c8305487b3d550ad66e7b9d8e61c5dd5fece74d7727f9d71b5570a5ace4d4b8c89de1d6bb53c2fbf342edda31e081fe84"
 
 [update]
 [update.modrinth]
 mod-id = "CgGEe1h3"
-version = "HNlZG0hl"
+version = "WDks47Wb"

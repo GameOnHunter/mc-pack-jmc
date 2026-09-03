@@ -1,13 +1,13 @@
 name = "Universal Enchants"
-filename = "UniversalEnchants-v21.1.6-1.21.1-Fabric.jar"
+filename = "UniversalEnchants-v21.1.7-1.21.1-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DT56YDir/versions/Kke2ZSg0/UniversalEnchants-v21.1.6-1.21.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/DT56YDir/versions/axwHD2Nw/UniversalEnchants-v21.1.7-1.21.1-Fabric.jar"
 hash-format = "sha512"
-hash = "30d428effd2708ec5ad347db2ac54d9af35e17b229c8ca87f2923fc4bcbcc118ab600b8be0444d87db7d993d2abf08df526e2aa40f5c3974b1ad7e6fcce0e831"
+hash = "0e66ed10b42849e1b7f3acbd555c894712b623cdbf02d6ce65e2cd76fd50f85fe91a2547165a405cb89e305e72843a10328afa4174059f6649db4e1bcffdded3"
 
 [update]
 [update.modrinth]
 mod-id = "DT56YDir"
-version = "Kke2ZSg0"
+version = "axwHD2Nw"

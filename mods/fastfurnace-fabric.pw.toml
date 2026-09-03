@@ -1,0 +1,13 @@
+name = "FastFurnace [FABRIC]"
+filename = "FastFurnace-1.21.1-9.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fZ3j1CdO/versions/SP6LF79d/FastFurnace-1.21.1-9.0.1.jar"
+hash-format = "sha512"
+hash = "0ebc88cf06683cf238bc92cf648dabffaefcd7062e9c1b832e254a753a28c76fa1f5890d48cac36615eb64f8c79a6f234104282fe7afc1475e2ffa11a790913d"
+
+[update]
+[update.modrinth]
+mod-id = "fZ3j1CdO"
+version = "SP6LF79d"

@@ -58,11 +58,6 @@ hash = "2f62a5eb5fcd3b2a9cd374376cc996c4cc96934a190fc8b08fdaa7bc42c9fbf1"
 metafile = true
 
 [[files]]
-file = "mods/areas.pw.toml"
-hash = "ce2ea1923c3ed0f7a49f94db67de56a11cc3df2fc9d613b8420a37bb292cb69f"
-metafile = true
-
-[[files]]
 file = "mods/armor-quick-swap.pw.toml"
 hash = "5d1a3851876c971181697b00f67cce56a5f4d63701ec5295b7f8604ddbc3c387"
 metafile = true
@@ -93,6 +88,11 @@ hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
 metafile = true
 
 [[files]]
+file = "mods/bag-of-holding.pw.toml"
+hash = "e667446d0c1e8e73afdb5fd5f39c1d72a4f719527596e93e1b6556afe6611dd4"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "de7bb9eecb68ac760a184374d6c59f24fa905ab11983a0f92b65113ad9d54c9a"
 metafile = true
@@ -105,6 +105,16 @@ metafile = true
 [[files]]
 file = "mods/beacon-aura.pw.toml"
 hash = "cfa9da1814c79bf117eff5bbac19564b5d1d1b78b72af309aef609d99698ad05"
+metafile = true
+
+[[files]]
+file = "mods/better-beacon-placement.pw.toml"
+hash = "f130adaa07e1db40707bffab3f33d58b27d2278e6ce0a26eea988d16295df185"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "fd26bc20d42bbfe70f7043828590036224064406eecec6fa130058c2add97404"
 metafile = true
 
 [[files]]
@@ -218,6 +228,11 @@ hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
 metafile = true
 
 [[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "c220c3fcf906c0f386d693fa4ea022fada314e5a056ad3c0ac7ebb02bed3f1cb"
+metafile = true
+
+[[files]]
 file = "mods/common-network.pw.toml"
 hash = "50622808128c50b6494d847dd5f671b5e7bdcadebc5ac5dfc4231dd393fa338a"
 metafile = true
@@ -260,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "aa2c192c435e084d54b48ed426e7ebae469d162b636f7dccbd0e68ba8f79764e"
+metafile = true
+
+[[files]]
+file = "mods/critical-strike.pw.toml"
+hash = "843efe26bd1e6b18636fccc522b6169fd57ef85ec31494a770de5f38436cd65e"
 metafile = true
 
 [[files]]
@@ -394,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "774fd0adcb4fdc2e8f90991fe3515e68f21d41a10b9daa8094bb2f7b78790df6"
+hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
 metafile = true
 
 [[files]]
@@ -420,6 +440,21 @@ metafile = true
 [[files]]
 file = "mods/fast-item-frames.pw.toml"
 hash = "bd67ef9f73d699f8afff69dc2309618903211d6ccff65db487e6dd4fcb088885"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace-fabric.pw.toml"
+hash = "b0f17aba38c594e1f9ea530ef530ed1bd3fa79bf68ea5523ffe2618298fccdd0"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite-fabric.pw.toml"
+hash = "0b97c6605290c0a50d8a4e9a0b07ad3c7e5736cdea8e0b1de0e4ce40e5f61a13"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench-fabric.pw.toml"
+hash = "4b21e8582485405d113b738d5c62382e7388fb78caa0963d1fa2668dc549efab"
 metafile = true
 
 [[files]]
@@ -798,6 +833,11 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "f89967ea9150d6e5371057dc31fc8b8180c79808410ee6318088fcf78a16f58f"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "edf814fc31956cd8b152b163caea5a8edde9109dbb8e5d5e35649906c91fe5a4"
 metafile = true
@@ -975,11 +1015,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "0207774efd7d3e152b4488f5c29dced86da6236cb17e436ec58ea6ff4ef25230"
-metafile = true
-
-[[files]]
-file = "mods/sword-blocking-mechanics.pw.toml"
-hash = "85d381e5d69df69b3e52699a1bce681107bb1d5acef94fcc65f7128e6fccaf79"
 metafile = true
 
 [[files]]

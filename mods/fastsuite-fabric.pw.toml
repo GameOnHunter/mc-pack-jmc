@@ -1,0 +1,13 @@
+name = "FastSuite [FABRIC]"
+filename = "FastSuite-1.21.1-6.0.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/83xBWJAx/versions/lw20xJLi/FastSuite-1.21.1-6.0.7.jar"
+hash-format = "sha512"
+hash = "cff9fb42ee044f43769708c3529e85575dbb01c244e25c059315abe3e750cab0c78bba1808cfebc2636dc6210d51e485ef2d44196b320b960d7fcd87bceff7c2"
+
+[update]
+[update.modrinth]
+mod-id = "83xBWJAx"
+version = "lw20xJLi"

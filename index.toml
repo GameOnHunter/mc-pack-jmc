@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3aef8c5db8ebe27c58add9ebb8229271ef99d6100b23740709dd96dfceaef99a"
+hash = "774fd0adcb4fdc2e8f90991fe3515e68f21d41a10b9daa8094bb2f7b78790df6"
 metafile = true
 
 [[files]]
@@ -445,11 +445,6 @@ metafile = true
 [[files]]
 file = "mods/fastfurnace-fabric.pw.toml"
 hash = "b0f17aba38c594e1f9ea530ef530ed1bd3fa79bf68ea5523ffe2618298fccdd0"
-metafile = true
-
-[[files]]
-file = "mods/fastsuite-fabric.pw.toml"
-hash = "0b97c6605290c0a50d8a4e9a0b07ad3c7e5736cdea8e0b1de0e4ce40e5f61a13"
 metafile = true
 
 [[files]]

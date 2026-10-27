@@ -1,13 +1,13 @@
 name = "Moog's Glow Up"
-filename = "MoogsGlowUp-fabric-1.21.1-1.2.2.jar"
+filename = "MoogsGlowUp-fabric-1.21.1-2.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iLlwyhcZ/versions/aeOgHJYM/MoogsGlowUp-fabric-1.21.1-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/iLlwyhcZ/versions/rpQU90qz/MoogsGlowUp-fabric-1.21.1-2.3.0.jar"
 hash-format = "sha512"
-hash = "00b8c5b03673c959485779d0525ea794fcbfc21925841c7dc78679b882d7204c25ccfa2d08a12b1463f0db5972d56cfb9ad2481e15528c7620a83e0098c7bd60"
+hash = "6c4f25a0108d22b9da82bd11f151b17d1cbab93dee7eb6ee5d2d9edc147cedf1f6c73ff60544bbbfff46163ed3cb8c9c8ac4f896af8f432af9cd6076d938ad02"
 
 [update]
 [update.modrinth]
 mod-id = "iLlwyhcZ"
-version = "aeOgHJYM"
+version = "rpQU90qz"
